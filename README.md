@@ -3,7 +3,7 @@
 ________________
 SingUp - SingIn 
 
-[EN]It is a simple registration and login application using firebase. You can register or login with Google, email or telephone. 
+[EN]It is a simple registration and login application using firebase. You can register or login with Google, email or phone. 
 
 [TR]Firebase kullanılarak basit bir kayıt ve giriş uygulamasıdır. Google, Mail ve Telefon ile kayıt veya giriş yapabilirsiniz.
 
