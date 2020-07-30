@@ -1,4 +1,4 @@
-package com.tariksune.singupin;
+package com.tariksune.signupin;
 
 import android.content.Context;
 
