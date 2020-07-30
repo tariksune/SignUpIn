@@ -1,7 +1,7 @@
-# SingUpIn
+# SignUpIn
 ### info
 ________________
-SingUp - SingIn 
+SignUp - SingIn 
 
 [EN]It is a simple registration and login application using firebase. You can register or login with Google, email or phone. 
 
@@ -9,7 +9,7 @@ SingUp - SingIn
 
 ### screenshot
 ________________
-![](https://raw.githubusercontent.com/tariksune/SingUpIn/master/screenshot.png)
+![](https://raw.githubusercontent.com/tariksune/SignUpIn/master/screenshot.png)
 
 ### contact
 ________________
