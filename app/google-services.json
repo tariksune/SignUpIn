@@ -47,7 +47,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:47235289781:android:8de1ae947d06a06f9724fc",
         "android_client_info": {
-          "package_name": "com.tariksune.singupin"
+          "package_name": "com.tariksune.signupin"
         }
       },
       "oauth_client": [
@@ -55,7 +55,7 @@
           "client_id": "47235289781-6smcjl6ta55el439s5heitmqh4g83urs.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.tariksune.singupin",
+            "package_name": "com.tariksune.signupin",
             "certificate_hash": "32069e6016037344c6a41f0a9f02b04dde4b560c"
           }
         },
